@@ -1,2 +1,2 @@
 # Parking-slot-Booking-Degree-Project
-Parking slot booking system helps users find and reserve parking spaces easily. It saves time by showing available slots and allowing online booking through a mobile app.
+A parking slot booking system that allows users to easily find and reserve available parking spaces online, helping save time and reduce traffic congestion.
